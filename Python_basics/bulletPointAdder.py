@@ -12,17 +12,3 @@ for i in range(len(lines)):
 text = '\n'.join(lines)
 pyperclip.copy(text)
 
-
-# Edward
-# Nicholas
-# Chiboy
-# Emmanuel
-# Daniel
-# Ezekiel
-
-# *Edward
-# *Nicholas
-# *Chiboy
-# *Emmanuel
-# *Daniel
-# *Ezekiel
